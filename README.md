@@ -5,7 +5,7 @@ areas: sales trends, delivery/logistics performance, market/category
 performance, and customer feedback. Built for an Indonesian marketplace 
 dataset spanning 2016–2018.
 
-🔗 **Live interactive dashboard:** [Tableau Public link]
+🔗 **Live interactive dashboard:** [https://public.tableau.com/views/E-commerceDashboard_17899958091890/MarketPulse?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ## Tools Used
 - Tableau (dashboard design, calculated fields, parameter-driven insights)
